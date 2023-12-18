@@ -37,4 +37,13 @@ body {
     cursor: pointer;
     border-radius: 5px;
   }
+  .plus {
+    background-color: greenyellow;
+  }
+  .delete {
+    background-color: red;
+  }
+  .clear {
+    background-color: yellow;
+  }
   
